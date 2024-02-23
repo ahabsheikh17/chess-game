@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+  background-color: rgb(83, 83, 83);
+}
+
+/* CHESS 1 */
+
+
+.chess1 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess1 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess1 div:nth-of-type(2n) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+/* CHESS 2   */
+
+
+
+.chess2 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess2 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess2 div:nth-of-type(2n-1) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+
+/* CHESS 3 */
+
+
+
+.chess3 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess3 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess3 div:nth-of-type(2n) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+
+
+/* CHESS 4 */
+
+
+
+.chess4 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess4 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess4 div:nth-of-type(2n-1) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+
+
+/* CHESS 5 */
+
+
+
+.chess5 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess5 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess5 div:nth-of-type(2n) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+
+
+/* CHESS 6 */
+
+
+
+.chess6 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess6 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess6 div:nth-of-type(2n-1) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+
+
+/* CHESS 7 */
+
+
+
+.chess7 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess7 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess7 div:nth-of-type(2n) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
+
+
+
+
+/* CHESS 8 */
+
+
+
+.chess8 {
+  display: flex;
+  flex-wrap: wrap;
+    
+  justify-content: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.chess8 div {
+  background-color: rgb(255, 255, 255);
+      width: 70px;
+  height: 70px;
+}
+.chess8 div:nth-of-type(2n-1) {
+  background-color: rgb(0, 0, 0);
+      width: 70px;
+  height: 70px;
+}
